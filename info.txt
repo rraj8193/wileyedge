@@ -1,1 +1,1 @@
-This is the info file for git repository.
+This is the info file for git repository. 1 2
