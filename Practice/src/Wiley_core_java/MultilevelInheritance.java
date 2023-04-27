@@ -1,19 +1,19 @@
 package Wiley_core_java;
 
 
-class Vehicle{
+class Vehicle1{
 	public void wheel() {
 		System.out.println("Wheel");
 	}
 }
 
-class Car extends Vehicle{
+class Car1 extends Vehicle1{
 	public void steering() {
 		System.out.println("Steering");
 	}
 }
 
-class SmartCar extends Car{
+class SmartCar extends Car1{
 	public void sensor() {
 		System.out.println("Sensor");
 	}
